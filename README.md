@@ -12,4 +12,4 @@ make
 
 The command ./Mi-jack-project will run the exectiable file. 
 All the above metion process was tested on ubuntu 18.4 , with
-cmake version 3.10 and c++ 17
+cmake version 3.10 and c++ 17 
